@@ -1,0 +1,41 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+
+item {
+  name: "hand_gusture_1"
+  label: 1
+  display_name: "1"
+}
+
+item {
+  name: "hand_gusture_2"
+  label: 2
+  display_name: "2"
+}
+
+item {
+  name: "hand_gusture_3"
+  label: 3
+  display_name: "3"
+}
+
+item {
+  name: "hand_gusture_4"
+  label: 4
+  display_name: "4"
+}
+
+item {
+  name: "hand_gusture_5"
+  label: 5
+  display_name: "5"
+}
+
+item {
+  name: "head"
+  label: 6
+  display_name: "face"
+}
